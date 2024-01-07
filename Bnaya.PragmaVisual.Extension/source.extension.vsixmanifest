@@ -4,6 +4,10 @@
         <Identity Id="Bnaya.PragmaVisual.Extension.8bd9d4cd-af22-4b53-80b2-c6bf6826f2cf" Version="1.0" Language="en-US" Publisher="bnaya eshet" />
         <DisplayName>Bnaya.PragmaVisual.Extension</DisplayName>
         <Description xml:space="preserve">Blend `#pragma warning disable`  into the background</Description>
+        <MoreInfo>https://medium@bnayae</MoreInfo>
+        <Icon>icon.png</Icon>
+        <PreviewImage>icon.png</PreviewImage>
+        <Tags>Bnaya, Extensions, #pragma</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
